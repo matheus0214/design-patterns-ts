@@ -7,7 +7,7 @@ Commit a cada padrão feito.
 - [ ] fabric.ts
 - [x] singleton.ts
 - [x] prototype.ts
-- [ ] builder.ts
+- [x] builder.ts
 - [ ] factory.ts (bônus)
 
 ## Estruturais (Aula 3)
