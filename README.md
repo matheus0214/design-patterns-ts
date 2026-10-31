@@ -4,7 +4,6 @@ Um arquivo por padrão, pequeno, com um exemplo que você entende. Rode com `npx
 Commit a cada padrão feito.
 
 ## Criacionais (Aula 2)
-- [ ] fabric.ts
 - [x] singleton.ts
 - [x] prototype.ts
 - [x] builder.ts
