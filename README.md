@@ -6,7 +6,7 @@ Commit a cada padrão feito.
 ## Criacionais (Aula 2)
 - [ ] fabric.ts
 - [x] singleton.ts
-- [ ] prototype.ts
+- [x] prototype.ts
 - [ ] builder.ts
 - [ ] factory.ts (bônus)
 
