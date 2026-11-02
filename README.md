@@ -11,7 +11,7 @@ Commit a cada padrão feito.
 
 ## Estruturais (Aula 3)
 - [x] adapter.ts
-- [ ] decorator.ts
+- [x] decorator.ts
 - [ ] composite.ts (bônus)
 
 ## Comportamentais (Aulas 4 e 5)
