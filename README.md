@@ -10,7 +10,7 @@ Commit a cada padrão feito.
 - [x] factory.ts (bônus)
 
 ## Estruturais (Aula 3)
-- [ ] adapter.ts
+- [x] adapter.ts
 - [ ] decorator.ts
 - [ ] composite.ts (bônus)
 
